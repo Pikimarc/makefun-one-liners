@@ -1,1 +1,1 @@
-print("Error 418: the database is a teapot, your query is not tea, and it has filed a formal complaint with HR.")
+print("Imagine every library, letter, and picture in the world woven into one great web of copper thread, so any man may read or speak to any other in an instant.")
