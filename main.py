@@ -1,1 +1,1 @@
-print("A subscription service that mails your houseplants handwritten apology letters from you \u2014 $9 a month, because guilt is the only fertilizer that works.")
+print("Error 418: the database is a teapot, your query is not tea, and it has filed a formal complaint with HR.")
