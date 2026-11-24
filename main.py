@@ -1,1 +1,1 @@
-print("Your next prompt will be misunderstood in a way that is technically your fault. Lucky numbers: 404, 500, 200.")
+print("A subscription service that mails your houseplants handwritten apology letters from you \u2014 $9 a month, because guilt is the only fertilizer that works.")
